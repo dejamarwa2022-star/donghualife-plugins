@@ -1,0 +1,12 @@
+[
+  {
+    "name": "DonghuaLife",
+    "url": "https://raw.githubusercontent.com/dejamarwa2022-star/donghualife-plugins/main/DonghuaLife.cs3",
+    "version": 1,
+    "internalName": "DonghuaLife",
+    "authors": ["dejamarwa2022-star"],
+    "description": "Donghuas chinos subtitulados al español",
+    "language": "es",
+    "tvTypes": ["Anime", "AnimeMovie"]
+  }
+]
