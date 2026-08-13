@@ -1,7 +1,7 @@
 {
   "name": "DonghuaLife Extension",
   "description": "Donghuas chinos subtitulados al español",
-  "manifestVersion": 2,
+  "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/dejamarwa2022-star/donghualife-plugins/main/plugins.json"
   ]
